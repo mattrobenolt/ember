@@ -1,0 +1,2 @@
+bleak @ https://github.com/hbldh/bleak/archive/develop.zip
+rich==12.6.0
